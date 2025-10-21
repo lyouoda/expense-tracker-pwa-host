@@ -1,0 +1,21 @@
+{
+    "name": "Expense Tracker",
+    "short_name": "Expense Tracker",
+    "description": "Expense Tracker by Google Apps Script",
+    "start_url": "/exec",
+    "display": "standalone",
+    "background_color": "#e2eafc",
+    "theme_color": "#3b65cb",
+    "icons": [
+      {
+        "src": "/ExpenseTracker-pwa-host/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/ExpenseTracker-pwa-host/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
