@@ -8,12 +8,12 @@
     "theme_color": "#3b65cb",
     "icons": [
       {
-        "src": "/expense-tracker-pwa-host/icon-192x192.png",
+        "src": "https://lyouoda.github.io/expense-tracker-pwa-host//expense-tracker-pwa-host/icon-192x192.png",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "/expense-tracker-pwa-host/icon-512x512.png",
+        "src": "https://lyouoda.github.io/expense-tracker-pwa-host//expense-tracker-pwa-host/icon-512x512.png",
         "sizes": "512x512",
         "type": "image/png"
       }
