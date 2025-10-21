@@ -2,7 +2,7 @@
     "name": "Expense Tracker",
     "short_name": "Expense Tracker",
     "description": "Expense Tracker by Google Apps Script",
-    "start_url": "/exec",
+    "start_url": "https://script.google.com/macros/s/AKfycby7TDe09qrdxA9ymbgSrp_A07TP0p36L4ihtMi9zYmuSIQ59pyO3AeL5AOLt7bL8bJPPg/exec",
     "display": "standalone",
     "background_color": "#e2eafc",
     "theme_color": "#3b65cb",
